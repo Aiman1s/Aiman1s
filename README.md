@@ -1,5 +1,10 @@
 <div align="center">
 
+<img src="assets/moth-cover.png" alt="MOTH dashboard cover" width="100%" />
+
+# 🦋 MOTH
+<div align="center">
+
 <img src="assets/moth-cover.png" alt="MOTH — We don't follow the market. We outperform it." width="100%" />
 
 <br/>
@@ -221,6 +226,85 @@ Contact:      Good luck finding me.
 > **"Why walk towards the light when you can deploy directly into it?"**
 
 <br/>
+
+<sub>© 2026 MOTH. All rights reserved. Probably.</sub>
+
+</div>
+
+**Serious Dev. No messing. Forward Deployed Legend.**
+
+`STATUS: DEPLOYED` &nbsp; `LOCATION: THE MOON 🌙` &nbsp; `TEAM SIZE: 3*`
+
+<sub>*allegedly</sub>
+
+</div>
+
+---
+
+## 👤 Who is MOTH?
+
+MOTH is led by **AI(man)** — building things, shipping code and occasionally pretending to know exactly what he's doing.
+
+Allegedly, **two other MOTHs** work alongside AI(man).
+
+Their identities remain unknown.
+
+We don't ask questions.
+
+We just ship.
+
+---
+
+## 📊 At a glance
+
+| Metric | Current status |
+|---|---|
+| 🚀 Projects deployed | **7** |
+| 💻 Lines of code | **10,842** |
+| ☕ Caffeine consumed | **∞** |
+| 🐛 Bugs fixed | **...some** |
+| 📈 Market beating | **(allegedly)** |
+
+---
+
+## 🛠️ Current projects
+
+| Project | Status | Progress |
+|---|---|---|
+| 🏋️ Fitness Tracker | 🟢 Deployed | `██████████` 100% |
+| 🏋️ Fitness Tracker v2 | 🟡 In Progress | `██████░░░░` 60% |
+| 📱 Fitness Tracker v3 | 🔵 Testing | `████░░░░░░` 40% |
+| 🦋 MOTH Landing Page | 🟣 Planning | `████████░░` 80% |
+
+---
+
+## 🎯 Current mission
+
+- [x] Build something cool
+- [x] Break something else
+- [x] Fix what was broken
+- [ ] Pretend this was the plan
+- [ ] Repeat
+
+---
+
+## 🧬 Stack
+
+`HTML` `CSS` `JavaScript` `AI` `GitHub` `VS Code` `Caffeine` `Blind Confidence`
+
+---
+
+## 🦋 MOTH doctrine
+
+> **We don't follow the market. We outperform it.**
+>
+> *(allegedly)*
+
+---
+
+<div align="center">
+
+**Why walk towards the light when you can deploy directly into it? 🦋**
 
 <sub>© 2026 MOTH. All rights reserved. Probably.</sub>
 
