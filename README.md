@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="assets/moth-cover.png" alt="MOTH dashboard cover" width="100%" />
 
 # 🦋 MOTH
 <div align="center">
